@@ -8390,3 +8390,49 @@ h1, h2, h3, h4, h5,
         border: 1px solid transparent;
         background: #fff;
         color: #000; }
+
+        .about-me {
+          background-color: #f8f9fa; /* Fondo claro */
+          color: #333; /* Color de texto oscuro */
+          padding: 20px;
+          border-radius: 10px; /* Bordes redondeados */
+          max-width: 600px; /* Ancho máximo */
+          margin: 20px auto; /* Centrado automático */
+          box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
+      }
+      
+      .about-me h2 {
+          font-size: 24px;
+          margin-bottom: 10px;
+          text-align: center; /* Centra el título */
+          color: #e74c3c; /* Color azul para el título */
+      }
+      
+      .about-me p {
+          font-size: 16px;
+          line-height: 1.6;
+          text-align: justify; /* Justifica el texto */
+      }
+     
+      .cv-btn:hover {
+        background-color: #ec7063; /* Azul oscuro en hover */
+        color: #fff;
+        border-color: #e74c3c;
+        text-align: center;
+    }
+
+    .me-gallery img {
+      width: 150px; /* Ajusta el tamaño inicial */
+      height: auto;
+      object-fit: cover; /* Asegura que la imagen se vea bien */
+      opacity: 0.7; /* La imagen comienza opaca */
+      transition: transform 0.3s ease, opacity 0.3s ease; /* Transiciones suaves */
+      border-radius: 50%; /* Hace que la imagen tenga bordes redondeados */
+      margin: 20px 0;
+  }
+  
+  .me-gallery img:hover {
+      opacity: 1; /* Recupera la opacidad */
+      transform: scale(1.1); /* Se agranda ligeramente */
+  }
+  

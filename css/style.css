@@ -8391,7 +8391,7 @@ h1, h2, h3, h4, h5,
         background: #fff;
         color: #000; }
 
-        .about-me {
+.about-me {
           background-color: #f8f9fa; /* Fondo claro */
           color: #333; /* Color de texto oscuro */
           padding: 20px;
@@ -8414,14 +8414,13 @@ h1, h2, h3, h4, h5,
           text-align: justify; /* Justifica el texto */
       }
      
-      .cv-btn:hover {
+.cv-btn:hover {
         background-color: #ec7063; /* Azul oscuro en hover */
         color: #fff;
         border-color: #e74c3c;
         text-align: center;
     }
-
-    .me-gallery img {
+.me-gallery img {
       width: 150px; /* Ajusta el tamaño inicial */
       height: auto;
       object-fit: cover; /* Asegura que la imagen se vea bien */

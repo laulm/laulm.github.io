@@ -1,5 +1,5 @@
 ---
-layout: tutorial  # Le dice a Jekyll que use la plantilla 'tutorial.html'
+layout: tutorials  # Le dice a Jekyll que use la plantilla 'tutorial.html'
 title: "Título del Tutorial"  # Título del tutorial que aparecerá en la página
 ---
 

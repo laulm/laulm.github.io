@@ -1,3 +1,8 @@
+---
+layout: tutorials  # Debe coincidir con la plantilla que creaste en _layouts
+title: "Cómo sumar números en Python"  # Este será el título que se muestra en la página
+---
+
 # Tutorial: Cómo Sumar dos Números Enteros en Python
 
 <!-- Puedes reemplazar la imagen y ajustar el tamaño según sea necesario -->

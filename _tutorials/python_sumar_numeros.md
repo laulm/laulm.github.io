@@ -15,7 +15,7 @@ title: "Cómo sumar números en Python"  # Este será el título que se muestra 
     * [Ejemplo 1: Definir una función para sumar](#ejemplo-1-definir-una-función-para-sumar)
     * [Ejemplo 2: Solicitar la entrada del usuario](#ejemplo-2-solicitar-la-entrada-del-usuario)
     * [Ejemplo 3: Ejecutar el programa de suma](#ejemplo-3-ejecutar-el-programa-de-suma)
-* [Conclusión](#conclusión)
+* [Conclusión](#conclusion)
 * [Referencias](#referencias)
 
 ## Introducción

@@ -1,0 +1,5 @@
+markdown: kramdown
+theme: minima  # Puedes usar este tema o personalizar uno propio
+collections:
+  tutorials:
+    output: true  # Esto le dice a Jekyll que haga público el contenido de la carpeta _tutorials

@@ -1,3 +1,8 @@
+---
+layout: tutorial  # Le dice a Jekyll que use la plantilla 'tutorial.html'
+title: "Título del Tutorial"  # Título del tutorial que aparecerá en la página
+---
+
 # Título del Tutorial
 
 <!-- Puedes reemplazar la imagen y ajustar el tamaño según sea necesario -->

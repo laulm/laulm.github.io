@@ -23,6 +23,8 @@ body {
     padding: 20px;
     background-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    min-height: 80vh; /* Ajusta esto para que el main cubra más altura */
+    padding-bottom: 50px; /* Añade espacio extra en la parte inferior */
   }
   
   /* Estilo para el pie de página */

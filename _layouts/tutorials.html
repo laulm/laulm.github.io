@@ -1,14 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/assets/css/style.css"> <!-- Si tienes estilos -->
+  <!-- Enlazar archivo CSS para estilos personalizados -->
+  <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
-  <h1>{{ page.title }}</h1>
-  <div>
-    {{ content }} <!-- Aquí es donde se mostrará el contenido del archivo Markdown -->
-  </div>
+  <header>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <main>
+    <div class="content">
+      {{ content }} <!-- Aquí se desplegará el contenido de tu archivo Markdown -->
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2024 Mi Sitio Web. Todos los derechos reservados.</p>
+  </footer>
 </body>
 </html>

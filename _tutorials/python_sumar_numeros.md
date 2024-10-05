@@ -6,7 +6,7 @@ title: "Cómo sumar números en Python"  # Este será el título que se muestra 
 # Tutorial: Cómo Sumar dos Números Enteros en Python
 
 <!-- Puedes reemplazar la imagen y ajustar el tamaño según sea necesario -->
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="logo python" width="100" height="120"></center>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="logo python" width="100" height="120" class= "custom-size-py" ></center>
 
 ## Tabla de Contenidos
 <!-- Actualiza los enlaces a las secciones que realmente utilices -->

@@ -7,7 +7,7 @@ title: "Sumar Números en Python"
 # Tutorial: Cómo Sumar dos Números Enteros en Python
 
 <!-- Puedes reemplazar la imagen y ajustar el tamaño según sea necesario -->
-<center><img src="../img/py.png" alt="logo python" width="100" height="120" class= "custom-size-py"></center>
+<center><img src="/img/py.png" alt="logo python" width="100" height="120" class= "custom-size-py"></center>
 
 ## Tabla de Contenidos
 <!-- Actualiza los enlaces a las secciones que realmente utilices -->

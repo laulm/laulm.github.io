@@ -1,0 +1,51 @@
+body {
+    background-color: #000; /* Fondo negro para toda la página */
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.pet-gallery {
+    background-color: #000; /* Fondo negro para el div */
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pet-gallery img {
+    width: 200px; /* Ajusta el tamaño de las imágenes */
+    height: 200px;
+    object-fit: cover; /* Mantiene el recorte de las imágenes para que se vean bien */
+    margin: 10px;
+    border: 2px solid white; /* Agrega un borde blanco opcional */
+    border-radius: 8px;
+    opacity: 0.6; /* Las imágenes empiezan opacas */
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Transición suave */
+}
+
+.pet-gallery img:hover {
+    opacity: 1; /* Se vuelve completamente visible */
+    transform: scale(1.2); /* Se agranda un 20% */
+}
+
+.cv-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #007bff; /* Azul */
+    border: 2px solid #007bff; /* Borde azul */
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.cv-btn:hover {
+    background-color: #0056b3; /* Azul oscuro en hover */
+    color: #fff;
+    border-color: #0056b3;
+    text-align: center;
+}

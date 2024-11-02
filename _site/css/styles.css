@@ -1,0 +1,96 @@
+/* Estilo para el cuerpo */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  /* Estilo para el encabezado */
+  header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  /* Estilo para el contenido principal */
+  main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    min-height: 80vh; /* Ajusta esto para que el main cubra más altura */
+    padding-bottom: 80px; /* Añade espacio extra en la parte inferior */
+  }
+  
+  /* Estilo para el pie de página */
+  footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Estilo para las imágenes centradas */
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 120px;
+  }
+  
+  /* Estilos para los títulos de sección */
+  h1, h2, h3 {
+    color: #333;
+  }
+  
+  /* Estilos para la tabla de contenidos */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    padding: 5px;
+  }
+  
+  ul li a {
+    text-decoration: none;
+    color: #4CAF50;
+  }
+  
+  ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Estilo para el código en bloques */
+  pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-left: 3px solid #4CAF50;
+    overflow-x: auto;
+  }
+  
+  code {
+    font-family: monospace;
+    background-color: #eee;
+    padding: 2px 4px;
+    border-radius: 4px;
+  }
+
+  .custom-size {
+    width: 100px;
+    height: 120px;
+  }
+
+
+
+  

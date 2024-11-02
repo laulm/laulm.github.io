@@ -3,3 +3,14 @@ theme: minima  # Puedes usar este tema o personalizar uno propio
 collections:
   tutorials:
     output: true  # Esto le dice a Jekyll que haga público el contenido de la carpeta _tutorials
+
+# Configuración de plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Configuración básica de SEO
+seo:
+  title: "Laura Website"  # Título de tu sitio
+  description: "Este es un sitio web para probar githubpages"  # Descripción de tu sitio
+  url: "https://github.com/laulm"  # URL de tu sitio
